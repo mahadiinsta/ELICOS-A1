@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Lato', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #444444;
+  font-size: 13px !important;
+  background-color: #f5f5f5;
+}
+
+code {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.MuiOutlinedInput-input {
+  padding: 5px 14px !important;
+}
+.MuiOutlinedInput-root {
+  border: 2px !important;
+}
+.MuiOutlinedInput-notchedOutline {
+  border-color: #e5e5e5 !important;
+}
+.general-text-light {
+  margin-top: 10px !important;
+  margin-bottom: 20px !important ;
+  font-size: 15px !important;
+  color: #444444;
+}
+
+.general-text {
+  margin-top: 10px !important;
+  margin-bottom: 20px !important ;
+  font-size: 15px !important;
+  font-weight: bold !important;
+  color: #444444;
+}
+.radio-label {
+  font-weight: 500 !important;
+  font-size: 15px !important;
+  color: #444 !important;
+}
+.checkbox-label {
+  font-weight: 600 !important;
+  font-size: 15px !important;
+  color: #444 !important;
+}
+.option-warning {
+  color: #ff0000;
+  font-size: 13px !important;
+  font-weight: 700 !important;
+}
+.MuiSvgIcon-root {
+  font-size: 18px !important;
+}
+.MuiStepIcon-root {
+  font-size: 2rem !important;
+}
+.slider-label {
+  font-weight: 600 !important;
+  font-size: 14px !important;
+  color: #444 !important;
+  margin-top: 10px !important;
+}
+.table-spacing {
+  border-collapse: separate;
+  border-spacing: 0 15px;
+}
+
+.MuiButton-root {
+  background: #494949 !important;
+  border: 1px solid #494949 !important;
+  color: #fff !important;
+  padding: 3px 7px !important;
+  font-size: 13px !important;
+  padding: 4px 12px !important;
+  min-height: 30px !important;
+  min-width: 75px !important;
+}
+.MuiSlider-thumbColorPrimary {
+  background-color: #f5f5f5 !important;
+  border-radius: 30px !important;
+  border: 1.5px solid #4d8ef1 !important;
+}
+.MuiSlider-colorPrimary {
+  width: 364px !important;
+}
+.MuiSlider-rail {
+  height: 12px !important;
+}
+.MuiSlider-track {
+  height: 50% !important;
+}
+.MuiSlider-mark {
+  height: 10px !important;
+  width: 1px !important;
+  margin-top: 12px !important;
+  margin-bottom: 8px !important;
+  color: lightgrey !important;
+}
+.MuiSlider-valueLabelOpen {
+  background-color: #2f9eec !important;
+  min-width: 40px !important;
+  opacity: 0.8 !important;
+}
+
+/* .MuiStepLabel-iconContainer circle {
+  color: red ;
+} */
+.stepper-icon-wrapper {
+  width: 38px;
+  height: 38px;
+  background: transparent;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid #2f9eec;
+}
+.MuiStepConnector-line {
+  border-top-width: 4px !important;
+}
+.MuiStep-root {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+.MuiStepLabel-iconContainer {
+  padding-right: 0px !important;
+  border-color: #4d8ef1;
+}
+
+.MuiTypography-root{
+  font-size: 14px !important;
+}
